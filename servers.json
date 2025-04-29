@@ -51,6 +51,10 @@
         {
             "name": "Jayden's Server",
             "address": "https://ani.jaydenha.uk"
+        },
+        {
+            "name": "scriptkiddie's server",   //A server made by a kid who can't even write English, copying someone else's code, pretending to be a programmer.
+            "address": "https://ueoa357.onrender.com/"
         }
     ]
 }
